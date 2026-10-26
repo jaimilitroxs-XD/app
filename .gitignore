@@ -1,0 +1,12 @@
+# PIN de la maleta (no se publica)
+firmware/**/secretos.h
+
+# Android Studio / Gradle
+app-android/.gradle/
+app-android/.kotlin/
+app-android/.idea/
+app-android/build/
+app-android/app/build/
+app-android/local.properties
+*.iml
+captures/
